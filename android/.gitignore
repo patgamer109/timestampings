@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+*.gradle.lock
+build/
+gradle-app.setting
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.keystore
+*.jks
+
+# Android
+.DS_Store
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+.classpath
+.project
+.settings/
+
+# Misc
+*.log
+*.swp
+*~
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,10 @@
+{
+    "stampings" :[
+      {"code": "1001", "type": "in", "time": "14:30"},
+      {"code": "1002", "type": "in", "time": "14:45"},
+      {"code": "2001", "type": "in", "time": "15:00"},
+      {"code": "1001", "type": "out", "time": "18:30"},
+      {"code": "1002", "type": "out", "time": "18:45"},
+      {"code": "2001", "type": "out", "time": "19:00"}
+    ]
+}
